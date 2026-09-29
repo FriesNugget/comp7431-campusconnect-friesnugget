@@ -33,7 +33,9 @@ OUT: password resets, ticket creation, personal student records, voice, automati
 actions, and answers from unapproved material.
 
 ## 6. AI critique and human decision
-- ChatGPT suggestion: <ADD ONE SHORT SUGGESTION>
-- Claude suggestion: <ADD ONE SHORT SUGGESTION>
-- My decision: Accepted / Revised / Rejected
-- My reason: <EXPLAIN USING WEEK 2 EVIDENCE, SCOPE, OR TESTABILITY>
+- ChatGPT suggestion: 
+Specify that when sources are insufficient, the system shall state that it cannot answer from approved sources and provide a next step explicitly identified in approved IT Support material.
+- Claude suggestion: 
+Mark A-01 and the Section 1 problem claims as ASSUMPTION until you can cite an approved Week 2 source, and reword A-01 as a measurable, labeled statement
+- My decision: Accepted Claude, Rejected ChatGPT
+- My reason: Claude response are more informative as it give out more information compare to ChatGPT that just give the general solution rather than specific
