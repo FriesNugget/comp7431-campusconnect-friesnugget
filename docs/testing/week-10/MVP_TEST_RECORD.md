@@ -14,10 +14,10 @@ Environment: MacOS
 | 5 | Video accessibility | Mute the tab and skip the video. AI disclosure and transcript remain visible, and the chatbot is reachable by keyboard. | Everything pass | PASS |
 | 6 | Latency and recovery | Time one supported question. Class target: grounded text in 5 seconds or less. If slower, the question is preserved and progress, retry, or text fallback is clear. | Everything in order | PASS |
 ## 2. Lighthouse and manual accessibility evidence
-Performance score: <FILL IN>
-Accessibility score: <FILL IN>
-One important Lighthouse finding or "none listed": <FILL IN>
-Keyboard plus muted-video result: <FILL IN>
+Performance score: 96
+Accessibility score: 95
+One important Lighthouse finding or "none listed": none listed
+Keyboard plus muted-video result: PASS
 ## 3. Defect decision and retest
 Highest-severity finding: <FILL IN OR NONE>
 Severity: <FILL IN - BLOCKER, SEVERE, MAJOR, MINOR, or NONE>
