@@ -16,7 +16,7 @@ jobs:
         run: |
           test -f src/app.py
           test -f requirements.txt
-          python -m py_compile app.py
+          python -m py_compile src/app.py
       - name: Verify release evidence and secret hygiene
         run: |
           test -f docs/testing/week-10/MVP_TEST_RECORD.md
